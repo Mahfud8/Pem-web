@@ -1,0 +1,22 @@
+body{
+    background-color:whitesmoke;
+    font-family: Calibri;
+    color: black;
+}
+
+table, th, td{
+    font-family: Calibri;
+    font-size: 18px;
+    }
+
+    #table1{
+        border-top:solid rgb(135, 160, 192);
+        width: 1000px;
+        height: 350px;
+    }
+
+    #table2{
+        width: 1000px;;
+        height: 400px;
+        text-align: center;
+    }   
