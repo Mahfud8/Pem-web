@@ -2,23 +2,26 @@ body{
     background-color:whitesmoke;
     font-family: Calibri;
     color: black;
-}
+    text-align: center;
+    }
+    
+    hr{
+        size: 5px;
+        color: lightsteelblue;
+    }
 
 table, th, td{
     font-family: Calibri;
-    font-size: 18px;
+    font-size: 16px;
     }
 
     #table1{
-        border-top:solid rgb(135, 160, 192);
-        width: 1000px;
-        height: 350px;
+        width: 90%;
+        text-align: left;
     }
 
     #table2{
-        width: 1000px;;
-        height: 400px;
+        width: 90%;;
         text-align: center;
     }  
-    
 
