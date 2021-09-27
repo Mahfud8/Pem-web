@@ -4,11 +4,6 @@ body{
     color: black;
     text-align: center;
     }
-    
-    hr{
-        size: 5px;
-        color: lightsteelblue;
-    }
 
 table, th, td{
     font-family: Calibri;
