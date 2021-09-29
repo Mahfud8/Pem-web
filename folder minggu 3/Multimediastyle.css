@@ -1,16 +1,16 @@
 body{
     background-color:whitesmoke;
     font-family: Calibri;
+    font-size: large;
     color: black;
     text-align: center;
-    }
-
-table, th, td{
+}
+table, td{
     font-family: Calibri;
     font-size: 16px;
     }
 
     #table1{
-        width: 90%;
+        width: 900px;
         text-align: left;
     }
