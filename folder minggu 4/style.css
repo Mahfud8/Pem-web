@@ -1,5 +1,5 @@
 body{
-    background-image: url(dust_scratches.png);
+    background-image: url("file gambar/dust_scratches.png");
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
 }
@@ -36,6 +36,4 @@ table, th, td{
     text-align: left;
     width: auto;
     padding: 3px;
-
-    
 }
