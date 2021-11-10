@@ -1,0 +1,20 @@
+body {
+    background: #35a9db;
+    font-family: Roboto;
+    text-align: center;
+}
+h1{
+    color: #fff;
+    width: 550px;
+}
+.kotak {
+    background: skyblue;
+    width: 200px;
+    height: 200px;
+    animation-name: animasi_kotak;
+    animation-duration: 4s;
+}
+@keyframes animasi_kotak{
+    from{background: skyblue;}
+    to{background: thistle;}
+}

@@ -1,0 +1,32 @@
+body {
+    background: #35a9db;
+    font-family: Roboto;
+    text-align: center;
+}
+h1, h2 {
+    color: #fff;
+}
+.ketengah {
+    margin: 10px ;
+}
+.kotak1 {
+    background: white;
+    width: 150px;
+    height: 150px;
+    transition: width 1s;
+    -webkit-transition: width 1s;
+}
+.kotak1:hover{
+    width: 300px;
+}
+.kotak2 {
+    background: white;
+    width: 150px;
+    height: 150px;
+    transition: width 1s, height 2s;
+    -webkit-transition: width 1s, height 2s;
+}
+.kotak2:hover{
+    width: 300px;
+    height: 300px;
+}
